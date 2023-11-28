@@ -1,0 +1,212 @@
+[
+    {
+        "id": 78,
+        "user": {
+            "email": "example@example.com"
+        },
+        "cafe": {
+            "id": 3,
+            "logo_url": "https://firebasestorage.googleapis.com/v0/b/fcm-client-img.appspot.com/o/photonone.png?alt=media",
+            "cafe_photo": [],
+            "rating": 0.0,
+            "tags": [],
+            "name": "Один дома",
+            "address": "minsk",
+            "phone": "+375 25",
+            "work_time_open": "06:35:35.858261",
+            "work_time_closed": "06:35:35.852277"
+        },
+        "product": {
+            "id": 83,
+            "product_photo": [
+                {
+                    "id": 76,
+                    "url_firebase": "https://firebasestorage.googleapis.com/v0/b/fcmproject-ba0ca.appspot.com/o/images%2F%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%287%29_2023-07-05-10-53-17.jpg?alt=media"
+                },
+                {
+                    "id": 77,
+                    "url_firebase": "https://firebasestorage.googleapis.com/v0/b/fcmproject-ba0ca.appspot.com/o/images%2F%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%288%29_2023-07-05-10-53-18.jpg?alt=media"
+                }
+            ],
+            "final_price": 2.22,
+            "name": "пирог",
+            "price": "3.22",
+            "price_in_words": "четыре рубля двадсать две копейки",
+            "price_bonus": 10,
+            "available": true,
+            "discount_percentage": 5,
+            "discount_savings": "1.00",
+            "description": "с молоком",
+            "category": 2,
+            "sub_category": 3
+        },
+        "coffee": null,
+        "food": null,
+        "other": null,
+        "quantity": 2,
+        "datetime": "Mon Aug 07 2023 09:26:44 GMT+0300",
+        "order_datetime": "Sat Aug 12 2023 09:23:00 GMT+0300",
+        "order_indicator": "placed"
+    },
+    {
+        "id": 79,
+        "user": {
+            "email": "example@example.com"
+        },
+        "cafe": {
+            "id": 3,
+            "logo_url": "https://firebasestorage.googleapis.com/v0/b/fcm-client-img.appspot.com/o/photonone.png?alt=media",
+            "cafe_photo": [],
+            "rating": 0.0,
+            "tags": [],
+            "name": "Один дома",
+            "address": "minsk",
+            "phone": "+375 25",
+            "work_time_open": "06:35:35.858261",
+            "work_time_closed": "06:35:35.852277"
+        },
+        "product": null,
+        "coffee": null,
+        "food": null,
+        "other": {
+            "id": 2,
+            "product": {
+                "id": 49,
+                "product_photo": [],
+                "final_price": 33.6,
+                "name": "Мерч байка",
+                "price": "35.00",
+                "price_in_words": "тридцать пять рублей",
+                "price_bonus": 28,
+                "available": false,
+                "discount_percentage": 4,
+                "discount_savings": null,
+                "description": "FCM мерч",
+                "category": 3,
+                "sub_category": 6
+            }
+        },
+        "quantity": 2,
+        "datetime": "Mon Aug 07 2023 09:26:44 GMT+0300",
+        "order_datetime": "Sat Aug 12 2023 09:23:00 GMT+0300",
+        "order_indicator": "placed"
+    },
+    {
+        "id": 80,
+        "user": {
+            "email": "example@example.com"
+        },
+        "cafe": {
+            "id": 3,
+            "logo_url": "https://firebasestorage.googleapis.com/v0/b/fcm-client-img.appspot.com/o/photonone.png?alt=media",
+            "cafe_photo": [],
+            "rating": 0.0,
+            "tags": [],
+            "name": "Один дома",
+            "address": "minsk",
+            "phone": "+375 25",
+            "work_time_open": "06:35:35.858261",
+            "work_time_closed": "06:35:35.852277"
+        },
+        "product": null,
+        "coffee": {
+            "id": 24,
+            "product": {
+                "id": 100,
+                "product_photo": [],
+                "final_price": 2.22,
+                "name": "американо",
+                "price": "3.22",
+                "price_in_words": "четыре рубля двадсать две копейки",
+                "price_bonus": 10,
+                "available": true,
+                "discount_percentage": null,
+                "discount_savings": "1.00",
+                "description": "с молоком",
+                "category": 1,
+                "sub_category": 1
+            },
+            "variety": [],
+            "dressing": [
+                {
+                    "id": 4,
+                    "name": "посыпка",
+                    "url_firebase": null,
+                    "price": "2.22",
+                    "dressing": 24
+                }
+            ],
+            "syrups": [
+                {
+                    "id": 7,
+                    "name": "ваниль",
+                    "url_firebase": null,
+                    "price": "2.22",
+                    "syrups": 24
+                }
+            ],
+            "strength": 5,
+            "cup_size": "medium",
+            "quantity": 200,
+            "own_cup": false,
+            "milk": true,
+            "sugar": false,
+            "portions": 1
+        },
+        "food": null,
+        "other": null,
+        "quantity": 1,
+        "datetime": "Mon Aug 07 2023 09:26:44 GMT+0300",
+        "order_datetime": "Sat Aug 12 2023 09:23:00 GMT+0300",
+        "order_indicator": "placed"
+    },
+    {
+        "id": 81,
+        "user": {
+            "email": "example@example.com"
+        },
+        "cafe": {
+            "id": 3,
+            "logo_url": "https://firebasestorage.googleapis.com/v0/b/fcm-client-img.appspot.com/o/photonone.png?alt=media",
+            "cafe_photo": [],
+            "rating": 0.0,
+            "tags": [],
+            "name": "Один дома",
+            "address": "minsk",
+            "phone": "+375 25",
+            "work_time_open": "06:35:35.858261",
+            "work_time_closed": "06:35:35.852277"
+        },
+        "product": null,
+        "coffee": null,
+        "food": {
+            "id": 3,
+            "product": {
+                "id": 42,
+                "product_photo": [
+                    {
+                        "id": 72,
+                        "url_firebase": "https://firebasestorage.googleapis.com/v0/b/fcmproject-ba0ca.appspot.com/o/images%2F%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%282%29_2023-06-29-14-38-35.jpg?alt=media"
+                    }
+                ],
+                "final_price": 3.06,
+                "name": "Пончик",
+                "price": "3.22",
+                "price_in_words": "три рубля двадсать две копейки",
+                "price_bonus": 8,
+                "available": false,
+                "discount_percentage": 5,
+                "discount_savings": null,
+                "description": "вкусный с ванилью",
+                "category": 2,
+                "sub_category": 4
+            },
+            "reheat_option": false
+        },
+        "other": null,
+        "quantity": 2,
+        "datetime": "Mon Aug 07 2023 09:26:44 GMT+0300",
+        "order_datetime": "Sat Aug 12 2023 09:23:00 GMT+0300",
+        "order_indicator": "placed"
+    }
+]

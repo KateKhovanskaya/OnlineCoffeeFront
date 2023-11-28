@@ -1,0 +1,23 @@
+.corporateoffer_box{
+    height: 150px;
+    background-color: #202021;
+    width:100%;
+    padding:50px 15px 15px 15px;
+    display:flex;
+    align-items: center;
+}
+
+.all_items_container{
+    display:flex;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.offer_window{
+    width:270px;
+    overflow:hidden;
+}
+
+.arrow{
+    cursor:pointer;
+}

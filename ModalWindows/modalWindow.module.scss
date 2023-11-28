@@ -1,0 +1,27 @@
+.myModal{
+    position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    display:none;
+}
+
+.myModal.active{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background-color: rgba(32, 32, 32, 0.6);
+    z-index:3;
+}
+
+.myModalContent{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    width:343px;
+    //border:1px solid #00fbf4;
+    background-color: #202021;
+    border-radius:30px;
+    margin-bottom:150px;
+}

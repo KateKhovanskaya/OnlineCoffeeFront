@@ -1,0 +1,30 @@
+.card-images-slider {
+    position: relative;
+    .swiper-slide {
+        overflow: hidden;
+        position: relative;
+        min-width: 100%;
+        min-height: 246px;
+        margin-bottom: 8px;
+        img {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            left: 0;
+            width: 100%;
+        }
+    }
+    .swiper-pagination {
+        bottom: 35px !important;
+    }
+    .swiper-button-prev, .swiper-button-next{
+        width:32px;
+        height:32px;
+        color:#ffffff;
+        border-radius:32px;
+        background-color:#606060;
+    }
+    .swiper-button-prev:after, .swiper-button-next:after{
+        font-size:17px;
+    }
+}
